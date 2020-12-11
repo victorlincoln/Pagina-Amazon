@@ -1,0 +1,30 @@
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  padding: 0;
+  background: #SSS;
+}
+
+h1 {
+  font-style: italic;
+  color: #0f1111;
+  font: 19px Arial, sans-serif;
+}
+h2 {
+  font: 14px Arial, sans-serif;
+}
+h3 {
+  color: green;
+}
+
+a {
+  color: #007185;
+  font: 14px Arial, sans-serif;
+}
+.produto {
+  display: flex;
+  widht: 350px;
+}
+.imagem {
+  margin-right: 40px;
+}
